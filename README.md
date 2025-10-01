@@ -11,7 +11,8 @@
 7. ***논리적인 글쓰기 행동이다.***
     - Test-code 논리적인 글쓰기
     - Product-code 논리적인 글쓰기
-8. '22.07.01. 올포랜드 이직
+8. '22.07.01. ~ '25.08.31. 올포랜드
+9. '25.09.01. ~ 크래프톤 정글
 
 ### 2. 식습관
 - 클린하지 못한 식습관은 `피로를 축적`, `숙면을 방해`한다.
@@ -30,7 +31,6 @@
 - [지금 행복해지려 노렵1](https://www.youtube.com/watch?v=XMtQMDijumE)
 - [지금 행복해지려 노렵2](https://www.youtube.com/watch?v=hkktujZM_FI)
 - [지금 행복해지려 노렵3](https://www.youtube.com/watch?v=gMfm_xPZsR0)
-
 
 ### 5. 초기값이 낮다면 기울기로 승부를 보자
 - [자기위로가](https://www.youtube.com/watch?v=vNC01u0-NIE)
